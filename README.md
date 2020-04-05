@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains solution to [Udacity's C++ Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213) project that is based on [this](https://github.com/udacity/CppND-Route-Planning-Project) starter code.
 
 <img src="map.png" width="600" height="450" />
 
@@ -8,11 +8,11 @@ This repo contains the starter code for the Route Planning project.
 
 When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
 ```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone https://github.com/taseo/cppND-route-planning.git --recurse-submodules
 ```
 or with SSH:
 ```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
+git clone git@github.com:taseo/cppND-route-planning.git --recurse-submodules
 ```
 
 ## Dependencies for Running Locally
